@@ -22,6 +22,7 @@ print("Public Number 1 (P): ", public_int_one)
 print("Public Number 2 (G): ", public_int_two)
 print("Private Number for Alice (a): ", private_int_alice)
 print("Private Number for Bob (b): ", private_int_bob)
+print("")
 print("Public Number for Alice (A): ", public_int_alice)
 print("Public Number for Bob (B): ", public_int_bob)
 
